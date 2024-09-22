@@ -5,3 +5,4 @@ modifing the file1 second time for for second commit
 3rd commit
 
 4rth commit
+changed for git diff
